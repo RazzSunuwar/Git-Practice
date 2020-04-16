@@ -1,0 +1,16 @@
+git init 
+
+git status
+
+git add <file name>
+
+git commit -m 'Commit here'
+
+git remote add origin add link of repository
+
+git push -u origin master
+
+Add Username
+
+Add Password
+
